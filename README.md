@@ -1,2 +1,3 @@
 # hello-world
 for tutorial purposes
+Hello there! Trying to get back into coding after twelve year long break. Wonder how will it go...
